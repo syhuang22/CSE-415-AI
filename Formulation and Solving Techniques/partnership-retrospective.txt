@@ -1,0 +1,5 @@
+a) Angus Hsieh & James Huang
+b) We both work on AStar.py and HeuristicSearches.pdf
+
+   James -->  EightPuzzleHamming.py
+   Angus -->  EightPuzzleManhattan.py
